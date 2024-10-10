@@ -6,28 +6,35 @@ api-gateway/.idea
 api-gateway/mvnw.cmd
 api-gateway/mvnw
 api-gateway/desktop.ini
+api-gateway/.gitignore
+api-gateway/.mvn
+api-gateway/docker-compose.yml
 inventory-service/.idea
 inventory-service/.mvn
 inventory-service/mvnw
 inventory-service/docker-compose.yml
 inventory-service/mvnw.cmd
+inventory-service/.gitignore
 order-service/.idea
 order-service/.mvn
 order-service/mvnw
 order-service/docker-compose.yml
 order-service/mvnw.cmd
+order-service/.gitignore
 product-service/.idea
 product-service/.mvn
 product-service/mvnw
 product-service/docker-compose.yml
 product-service/mvnw.cmd
+product-service/.gitignore
 notification-service/.idea
 notification-service/.mvn
 notification-service/mvnw
 notification-service/mvnw.cmd
+notification-service/.gitignore
 
-.mvnw
-.mvnw.cmd
+
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
